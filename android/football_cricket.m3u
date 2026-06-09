@@ -1,154 +1,153 @@
 #EXTM3U
-# Football & Cricket channels extracted from iptv-org/iptv (publicly available free streams)
-# Source: https://github.com/iptv-org/iptv  | Generated for Fazla Rabbi
-# NOTE: Free public streams. Many premium licensed broadcasters (beIN, Sky, Fox, Star premium) are NOT here or are geo-blocked.
+# Football & Cricket channels from iptv-org/iptv (publicly available free streams)
+# Streams: github.com/iptv-org/iptv | Logos: github.com/iptv-org/database (open dataset)
 # ===== FOOTBALL / SOCCER (63 streams) =====
-#EXTINF:-1 tvg-id="TyCSports.ar" group-title="Football",TyC Sports (1080p) [Geo-blocked] [AR]
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Football",TyC Sports (1080p) [Geo-blocked] [AR]
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" group-title="Football",TyC Sports (1080p) [AR]
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Football",TyC Sports (1080p) [AR]
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 tvg-id="TyCSportsUSA.ar" group-title="Football",TyC Sports USA [AR]
+#EXTINF:-1 tvg-id="TyCSportsUSA.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Football",TyC Sports USA [AR]
 http://45.170.130.224:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-id="CCTVStormFootball.cn" group-title="Football",CCTV-Storm Football (1080p) [CN]
+#EXTINF:-1 tvg-id="CCTVStormFootball.cn" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="Football",CCTV-Storm Football (1080p) [CN]
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="WinSports.co" group-title="Football",Win Sports (1080p) [CO]
+#EXTINF:-1 tvg-id="WinSports.co" tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Football",Win Sports (1080p) [CO]
 http://190.60.40.34:8001/play/a0ef
-#EXTINF:-1 tvg-id="WinPlusFutbol.co" group-title="Football",Win+ Futbol [CO]
+#EXTINF:-1 tvg-id="WinPlusFutbol.co" tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="Football",Win+ Futbol [CO]
 http://190.60.40.34:8001/play/a02r
-#EXTINF:-1 tvg-id="SportdigitalFUSSBALL.de" group-title="Football",Sportdigital FUSSBALL HD (1080p) [DE]
+#EXTINF:-1 tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://i.imgur.com/NDbWxqF.png" group-title="Football",Sportdigital FUSSBALL HD (1080p) [DE]
 https://live20.bozztv.com/akamaissh101/ssh101/sddd1hdde/playlist.m3u8
-#EXTINF:-1 tvg-id="LaLigaHypermotion.es" group-title="Football",LaLiga Hypermotion (1080p) [ES]
+#EXTINF:-1 tvg-id="LaLigaHypermotion.es" tvg-logo="https://i.imgur.com/ilay5Jr.png" group-title="Football",LaLiga Hypermotion (1080p) [ES]
 http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
-#EXTINF:-1 tvg-id="LaLigaTV.es" group-title="Football",LaLiga TV [ES]
+#EXTINF:-1 tvg-id="LaLigaTV.es" tvg-logo="https://i.imgur.com/ilay5Jr.png" group-title="Football",LaLiga TV [ES]
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
-#EXTINF:-1 tvg-id="Adjarasport1.ge" group-title="Football",Adjarasport 1 [GE]
+#EXTINF:-1 tvg-id="Adjarasport1.ge" tvg-logo="https://i.imgur.com/SVV5xHC.png" group-title="Football",Adjarasport 1 [GE]
 https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
-#EXTINF:-1 tvg-id="Sport1.hu" group-title="Football",Sport 1 (1280p) [HU]
+#EXTINF:-1 tvg-id="Sport1.hu" tvg-logo="https://i.imgur.com/X5X3tKC.png" group-title="Football",Sport 1 (1280p) [HU]
 http://46.149.191.217:9005/play/a017
-#EXTINF:-1 tvg-id="SonySportsTen1.in" group-title="Football",Sony Sports Ten 1 (1080p) [Geo-blocked] [IN]
+#EXTINF:-1 tvg-id="SonySportsTen1.in" tvg-logo="https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540" group-title="Football",Sony Sports Ten 1 (1080p) [Geo-blocked] [IN]
 https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%201.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen1.in" group-title="Football",Sony Sports Ten 1 HD (1080p) [Geo-blocked] [IN]
+#EXTINF:-1 tvg-id="SonySportsTen1.in" tvg-logo="https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540" group-title="Football",Sony Sports Ten 1 HD (1080p) [Geo-blocked] [IN]
 https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%201%20HD.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen2.in" group-title="Football",Sony Sports Ten 2 (1080p) [Geo-blocked] [IN]
+#EXTINF:-1 tvg-id="SonySportsTen2.in" tvg-logo="https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png?lock=720x540" group-title="Football",Sony Sports Ten 2 (1080p) [Geo-blocked] [IN]
 https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%202.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen2.in" group-title="Football",Sony Sports Ten 2 HD (1080p) [Geo-blocked] [IN]
+#EXTINF:-1 tvg-id="SonySportsTen2.in" tvg-logo="https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png?lock=720x540" group-title="Football",Sony Sports Ten 2 HD (1080p) [Geo-blocked] [IN]
 https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%202%20HD.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in" group-title="Football",Sony Sports Ten 3 Hindi (576p) [IN]
+#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Football",Sony Sports Ten 3 Hindi (576p) [IN]
 http://103.229.254.25:7001/play/a09q/index.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in" group-title="Football",Sony Sports Ten 3 Hindi (1080p) [Geo-blocked] [IN]
+#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Football",Sony Sports Ten 3 Hindi (1080p) [Geo-blocked] [IN]
 https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%203.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in" group-title="Football",Sony Sports Ten 3 Hindi HD (1080p) [Geo-blocked] [IN]
+#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Football",Sony Sports Ten 3 Hindi HD (1080p) [Geo-blocked] [IN]
 https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%203%20HD.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen4.in" group-title="Football",Sony Sports Ten 4 Telugu (1080p) [IN]
+#EXTINF:-1 tvg-id="SonySportsTen4.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025T4PV.png?lock=720x540" group-title="Football",Sony Sports Ten 4 Telugu (1080p) [IN]
 https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204%20HD.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen4.in" group-title="Football",Sony Sports Ten 4 (1080p) [Geo-blocked] [IN]
+#EXTINF:-1 tvg-id="SonySportsTen4.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025T4PV.png?lock=720x540" group-title="Football",Sony Sports Ten 4 (1080p) [Geo-blocked] [IN]
 https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in" group-title="Football",Star Sports 1 HD (1080p) [IN]
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://dtil.tmsimg.com/assets/s143837_ld_h15_aa.png?lock=720x540" group-title="Football",Star Sports 1 HD (1080p) [IN]
 http://103.253.18.58:8000/play/a00m
-#EXTINF:-1 tvg-id="StarSports1.in" group-title="Football",Star Sports 1 (720p) [IN]
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://dtil.tmsimg.com/assets/s143837_ld_h15_aa.png?lock=720x540" group-title="Football",Star Sports 1 (720p) [IN]
 https://tvsen7.aynaott.com/sspts1/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1Hindi.in" group-title="Football",Star Sports 1 Hindi (576p) [IN]
+#EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-logo="https://dtil.tmsimg.com/assets/s143838_ld_h15_aa.png?lock=720x540" group-title="Football",Star Sports 1 Hindi (576p) [IN]
 http://103.253.18.58:8000/play/a03o
-#EXTINF:-1 tvg-id="StarSports2.in" group-title="Football",Star Sports 2 HD (720p) [IN]
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-logo="https://dtil.tmsimg.com/assets/s143845_ld_h15_aa.png?lock=720x540" group-title="Football",Star Sports 2 HD (720p) [IN]
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
-#EXTINF:-1 tvg-id="StarSports2Hindi.in" group-title="Football",Star Sports 2 Hindi HD (1080p) [IN]
+#EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-logo="https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540" group-title="Football",Star Sports 2 Hindi HD (1080p) [IN]
 http://103.157.248.140:8000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="RaiSport.it" group-title="Football",Rai Sport HD (720p) [Geo-Blocked] [IT]
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-logo="https://i.imgur.com/6PEevOM.png" group-title="Football",Rai Sport HD (720p) [Geo-Blocked] [IT]
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-#EXTINF:-1 tvg-id="RaiSport.it" group-title="Football",Rai Sport HD (720p) [Geo-Blocked] [IT]
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-logo="https://i.imgur.com/6PEevOM.png" group-title="Football",Rai Sport HD (720p) [Geo-Blocked] [IT]
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
-#EXTINF:-1 tvg-id="RaiSport.it" group-title="Football",Rai Sport HD (1080p) [IT]
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-logo="https://i.imgur.com/6PEevOM.png" group-title="Football",Rai Sport HD (1080p) [IT]
 https://srv1.adriatelekom.com/RaiSport/index.m3u8
-#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" group-title="Football",Sportitalia Solocalcio (1080p) [IT]
+#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Football",Sportitalia Solocalcio (1080p) [IT]
 https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" group-title="Football",Sportitalia Solocalcio (720p) [Geo-blocked] [IT]
+#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Football",Sportitalia Solocalcio (720p) [Geo-blocked] [IT]
 https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" group-title="Football",Sportitalia SoloCalcio [IT]
+#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Football",Sportitalia SoloCalcio [IT]
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" group-title="Football",Sportitalia Solocalcio (1080p) [IT]
+#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Football",Sportitalia Solocalcio (1080p) [IT]
 https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" group-title="Football",Sportitalia Solocalcio (1080p) [IT]
+#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Football",Sportitalia Solocalcio (1080p) [IT]
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PremierSports.ph" group-title="Football",Premier Sports (1080p) [PH]
+#EXTINF:-1 tvg-id="PremierSports.ph" tvg-logo="https://i.imgur.com/BURPHzI.png" group-title="Football",Premier Sports (1080p) [PH]
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
-#EXTINF:-1 tvg-id="PremierSports2.ph" group-title="Football",Premier Sports 2 (1080p) [PH]
+#EXTINF:-1 tvg-id="PremierSports2.ph" tvg-logo="https://i.imgur.com/UQeXWd2.png" group-title="Football",Premier Sports 2 (1080p) [PH]
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
-#EXTINF:-1 tvg-id="PolsatSport1.pl" group-title="Football",Polsat Sport 1 (1080p) [Geo-blocked] [PL]
+#EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/500px-Polsat_Sport_1_2024.svg.png" group-title="Football",Polsat Sport 1 (1080p) [Geo-blocked] [PL]
 http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd
-#EXTINF:-1 tvg-id="SportTV1.pt" group-title="Football",Sport TV1 [PT]
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="https://i.imgur.com/YWic36u.png" group-title="Football",Sport TV1 [PT]
 https://test.946985.filegear-sg.me/proxy/b57707d48ea3395e
-#EXTINF:-1 tvg-id="SportTV5.pt" group-title="Football",Sport TV5 [PT]
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-logo="https://i.imgur.com/4w4vuad.png" group-title="Football",Sport TV5 [PT]
 https://test.946985.filegear-sg.me/proxy/2e5a3cb38f72a6dd
-#EXTINF:-1 tvg-id="SportTV7.pt" group-title="Football",Sport TV7 [PT]
+#EXTINF:-1 tvg-id="SportTV7.pt" tvg-logo="https://i.imgur.com/2HmCAm5.png" group-title="Football",Sport TV7 [PT]
 https://test.946985.filegear-sg.me/proxy/a8c7608240dec023
-#EXTINF:-1 tvg-id="Football.ru" group-title="Football",Футбол (720p) [RU]
+#EXTINF:-1 tvg-id="Football.ru" tvg-logo="https://i.imgur.com/pEuaZVx.png" group-title="Football",Футбол (720p) [RU]
 http://31.148.48.15/Futbol_HD/index.m3u8
-#EXTINF:-1 tvg-id="Futbol.tj" group-title="Football",Futbol (1080p) [TJ]
+#EXTINF:-1 tvg-id="Futbol.tj" tvg-logo="https://i.imgur.com/RngmCDn.png" group-title="Football",Futbol (1080p) [TJ]
 https://live.teleradiocom.tj/8/3m.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk" group-title="Football",FIFA+ (720p) [UK]
+#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Football",FIFA+ (720p) [UK]
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk" group-title="Football",FIFA+ French (720p) [UK]
+#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Football",FIFA+ French (720p) [UK]
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk" group-title="Football",FIFA+ German (720p) [UK]
+#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Football",FIFA+ German (720p) [UK]
 https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk" group-title="Football",FIFA+ Hispanic America (720p) [UK]
+#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Football",FIFA+ Hispanic America (720p) [UK]
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk" group-title="Football",FIFA+ Italy (720p) [UK]
+#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Football",FIFA+ Italy (720p) [UK]
 https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk" group-title="Football",FIFA+ Portuguese (720p) [UK]
+#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Football",FIFA+ Portuguese (720p) [UK]
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk" group-title="Football",FIFA+ Spain (720p) [UK]
+#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Football",FIFA+ Spain (720p) [UK]
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk" group-title="Football",FIFA+ United States (720p) [UK]
+#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Football",FIFA+ United States (720p) [UK]
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk" group-title="Football",FIFA+ (720p) [UK]
+#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Football",FIFA+ (720p) [UK]
 https://ba3e2e93.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk" group-title="Football",FIFA+ (720p) [UK]
+#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Football",FIFA+ (720p) [UK]
 https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlusWomen.uk" group-title="Football",FIFA+ Women (720p) [UK]
+#EXTINF:-1 tvg-id="FIFAPlusWomen.uk" tvg-logo="https://i.ibb.co/LhpwRm8V/GB3800009-F0-20251028-T010335-SQUARE.png" group-title="Football",FIFA+ Women (720p) [UK]
 https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" group-title="Football",BeIN SPORTS XTRA (1080p) [Geo-blocked] [US]
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Football",BeIN SPORTS XTRA (1080p) [Geo-blocked] [US]
 https://amg01334-beinsportsllc-beinxtra-samsungau-eiyvc.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" group-title="Football",beIN SPORTS XTRA (1080p) [US]
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Football",beIN SPORTS XTRA (1080p) [US]
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" group-title="Football",beIN SPORTS Xtra (1080p) [US]
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Football",beIN SPORTS Xtra (1080p) [US]
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra/playlist.m3u8?ads.vf=kBQplLldqQO
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" group-title="Football",BeIN Sports XTRA (1080p) [US]
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Football",BeIN Sports XTRA (1080p) [US]
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" group-title="Football",beIN SPORTS XTRA (1080p) [US]
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Football",beIN SPORTS XTRA (1080p) [US]
 https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" group-title="Football",BeIN SPORTS XTRA (720p) [US]
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Football",BeIN SPORTS XTRA (720p) [US]
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" group-title="Football",BeIN Sports XTRA (1080p) [US]
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Football",BeIN Sports XTRA (1080p) [US]
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" group-title="Football",BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked] [US]
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Football",BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked] [US]
 https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" group-title="Football",beIN Sports XTRA en Espanol (1080p) [US]
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Football",beIN Sports XTRA en Espanol (1080p) [US]
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" group-title="Football",BeIN SPORTS XTRA En Espanol (720p) [US]
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Football",BeIN SPORTS XTRA En Espanol (720p) [US]
 https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" group-title="Football",BeIN Sports XTRA en Espanol (1080p) [US]
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Football",BeIN Sports XTRA en Espanol (1080p) [US]
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 # ===== CRICKET (11 streams) =====
-#EXTINF:-1 tvg-id="CricketGold.au" group-title="Cricket",Cricket Gold (1080p) [AU]
+#EXTINF:-1 tvg-id="CricketGold.au" tvg-logo="https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png" group-title="Cricket",Cricket Gold (1080p) [AU]
 https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
-#EXTINF:-1 tvg-id="CricketGold.au" group-title="Cricket",Cricket Gold (1080p) [AU]
+#EXTINF:-1 tvg-id="CricketGold.au" tvg-logo="https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png" group-title="Cricket",Cricket Gold (1080p) [AU]
 https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8
-#EXTINF:-1 tvg-id="CricketGold.au" group-title="Cricket",Cricket Gold (1080p) [AU]
+#EXTINF:-1 tvg-id="CricketGold.au" tvg-logo="https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png" group-title="Cricket",Cricket Gold (1080p) [AU]
 https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in" group-title="Cricket",Sony Sports Ten 3 Hindi (576p) [IN]
+#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Cricket",Sony Sports Ten 3 Hindi (576p) [IN]
 http://103.229.254.25:7001/play/a09q/index.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in" group-title="Cricket",Sony Sports Ten 3 Hindi (1080p) [Geo-blocked] [IN]
+#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Cricket",Sony Sports Ten 3 Hindi (1080p) [Geo-blocked] [IN]
 https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%203.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in" group-title="Cricket",Sony Sports Ten 3 Hindi HD (1080p) [Geo-blocked] [IN]
+#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Cricket",Sony Sports Ten 3 Hindi HD (1080p) [Geo-blocked] [IN]
 https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%203%20HD.m3u8
-#EXTINF:-1 tvg-id="StarSports1Hindi.in" group-title="Cricket",Star Sports 1 Hindi (576p) [IN]
+#EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-logo="https://dtil.tmsimg.com/assets/s143838_ld_h15_aa.png?lock=720x540" group-title="Cricket",Star Sports 1 Hindi (576p) [IN]
 http://103.253.18.58:8000/play/a03o
-#EXTINF:-1 tvg-id="WillowSports.us" group-title="Cricket",Willow Sports (1080p) [Geo-blocked] [US]
+#EXTINF:-1 tvg-id="WillowSports.us" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="Cricket",Willow Sports (1080p) [Geo-blocked] [US]
 https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WillowSports.us" group-title="Cricket",Willow Sports (1080p) [US]
+#EXTINF:-1 tvg-id="WillowSports.us" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="Cricket",Willow Sports (1080p) [US]
 https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8
-#EXTINF:-1 tvg-id="WillowSports.us" group-title="Cricket",Willow Sports (1080p) [Geo-blocked] [US]
+#EXTINF:-1 tvg-id="WillowSports.us" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="Cricket",Willow Sports (1080p) [Geo-blocked] [US]
 https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-id="WillowSports.us" group-title="Cricket",Willow Sports (1080p) [US]
+#EXTINF:-1 tvg-id="WillowSports.us" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="Cricket",Willow Sports (1080p) [US]
 https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
